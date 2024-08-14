@@ -92,7 +92,7 @@ Example: Reading a PDB File
 from Bio.PDB import PDBParser
 
 parser = PDBParser()
-structure = parser.get_structure("7D4F", "path/to/7D4F.pdb")
+structure = parser.get_structure("7D4F", "Sequence_data/7D4F.pdb")
 print(structure)
 ```
 
