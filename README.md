@@ -105,9 +105,9 @@ It was recommended to use nglview to visualize the 3D structure of the protein. 
 ## Observations
 Length of the sequence: 29903 base pairs
 - GC content: 37.97%
-- The largest protein has a length of 2701 amino acids
-- The largest protein BLAST results correspond to SARS-CoV-19 7D4F
-- Protein 6YYT has 8 chains and a DNA binding domain
+- The largest protein has a length of 29903 amino acids
+- The largest protein BLAST results correspond to Structure of COVID-19 RNA-dependent RNA polymerase bound to suramin.
+- Protein 7D4F has 3 unique protein chains and a DNA binding domain
 
 ## Further Reading
 - [Biopython Tutorial and Cookbook](https://biopython.org/DIST/docs/tutorial/Tutorial.html)
